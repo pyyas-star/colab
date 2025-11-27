@@ -1,0 +1,51 @@
+[
+  {
+    "query": "What are the symptoms of malaria?",
+    "expected_answer": "Symptoms include fever, headaches, sweats, chills, muscle aches, vomiting, diarrhoea, and tiredness. Symptoms usually appear 7-18 days after being bitten.",
+    "category": "symptoms",
+    "disease": "malaria"
+  },
+  {
+    "query": "What is the first-line treatment for uncomplicated malaria?",
+    "expected_answer": "Artemisinin-based combination therapies (ACTs) are recommended as first-line treatment. Common ACTs include artemether-lumefantrine, artesunate-amodiaquine, and dihydroartemisinin-piperaquine. Treatment duration is typically 3 days.",
+    "category": "treatment",
+    "disease": "malaria"
+  },
+  {
+    "query": "How can malaria be prevented?",
+    "expected_answer": "Prevention includes vector control (insecticide-treated nets, indoor residual spraying), chemoprevention for high-risk groups, environmental management, and personal protection measures.",
+    "category": "prevention",
+    "disease": "malaria"
+  },
+  {
+    "query": "What are the symptoms of tuberculosis?",
+    "expected_answer": "Symptoms include a bad cough lasting 3 weeks or longer, chest pain, coughing up blood or sputum, weakness, fatigue, weight loss, loss of appetite, chills, fever, and night sweats.",
+    "category": "symptoms",
+    "disease": "tuberculosis"
+  },
+  {
+    "query": "What is the standard treatment regimen for drug-susceptible TB?",
+    "expected_answer": "Standard regimen includes initial phase of 2 months with INH, RIF, PZA, and EMB, followed by continuation phase of 4 months with INH and RIF. Total treatment duration is 6 months.",
+    "category": "treatment",
+    "disease": "tuberculosis"
+  },
+  {
+    "query": "What are the signs of dehydration in children?",
+    "expected_answer": "Signs include dry mouth and tongue, no tears when crying, no wet diapers for 3+ hours, sunken eyes or cheeks, listlessness, extreme thirst, and skin that doesn't bounce back when pinched.",
+    "category": "symptoms",
+    "disease": "dehydration"
+  },
+  {
+    "query": "What is the first-line treatment for dehydration in children?",
+    "expected_answer": "Oral rehydration solution (ORS) is the first-line treatment for some dehydration (5-10%). Give 50-100 ml/kg over 2-4 hours. For severe dehydration, IV fluid replacement and hospitalization are required.",
+    "category": "treatment",
+    "disease": "dehydration"
+  },
+  {
+    "query": "How is malaria diagnosed?",
+    "expected_answer": "Malaria is diagnosed through microscopic examination of blood films, rapid diagnostic tests (RDTs), or polymerase chain reaction (PCR) tests.",
+    "category": "diagnosis",
+    "disease": "malaria"
+  }
+]
+

@@ -1,0 +1,226 @@
+Title: Malaria Prevention and Treatment Guidelines
+
+Source: World Health Organization (WHO)
+
+Date: 2024
+
+---
+
+OVERVIEW
+
+Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. It is preventable and curable. In 2022, there were an estimated 249 million malaria cases worldwide.
+
+SYMPTOMS
+
+The first symptoms of malaria are usually very similar to flu – they include:
+- A high temperature (fever)
+- Headaches
+- Sweats and chills
+- Muscle aches or pains
+- Vomiting and/or diarrhoea
+- Tiredness and loss of energy
+
+Symptoms usually appear between 7 and 18 days after being bitten, but in some cases can take up to a year or occasionally even longer.
+
+If not treated promptly, malaria can cause severe complications, including:
+- Severe anemia
+- Cerebral malaria (affecting the brain)
+- Kidney failure
+- Respiratory distress
+- Death
+
+DIAGNOSIS
+
+Malaria is diagnosed through:
+- Microscopic examination of blood films
+- Rapid diagnostic tests (RDTs)
+- Polymerase chain reaction (PCR) tests
+
+Early diagnosis and treatment are crucial to prevent complications and reduce transmission.
+
+TREATMENT
+
+Treatment depends on:
+- The type of malaria parasite
+- The severity of symptoms
+- The age of the patient
+- Whether the patient is pregnant
+
+First-line treatment for uncomplicated malaria:
+- Artemisinin-based combination therapies (ACTs) are recommended
+- Common ACTs include artemether-lumefantrine, artesunate-amodiaquine, and dihydroartemisinin-piperaquine
+- Treatment duration is typically 3 days
+
+For severe malaria:
+- Injectable artesunate is the treatment of choice
+- Followed by a complete course of an ACT
+- Requires hospitalization and close monitoring
+
+PREVENTION
+
+Prevention strategies include:
+1. Vector control: Use of insecticide-treated mosquito nets (ITNs) and indoor residual spraying (IRS)
+2. Chemoprevention: Antimalarial drugs for high-risk groups (pregnant women, infants, travelers)
+3. Environmental management: Eliminating mosquito breeding sites
+4. Personal protection: Wearing long-sleeved clothing, using insect repellents
+
+For travelers to malaria-endemic areas:
+- Take antimalarial prophylaxis as prescribed
+- Use insect repellent containing DEET
+- Sleep under insecticide-treated nets
+- Wear protective clothing
+
+---
+
+Title: Tuberculosis (TB) Management Guidelines
+
+Source: Centers for Disease Control and Prevention (CDC)
+
+Date: 2024
+
+---
+
+OVERVIEW
+
+Tuberculosis (TB) is a disease caused by bacteria called Mycobacterium tuberculosis. The bacteria usually attack the lungs, but TB bacteria can attack any part of the body such as the kidney, spine, and brain. Not everyone infected with TB bacteria becomes sick.
+
+SYMPTOMS
+
+Symptoms of TB disease depend on where in the body the TB bacteria are growing. TB bacteria usually grow in the lungs (pulmonary TB). TB disease in the lungs may cause symptoms such as:
+- A bad cough that lasts 3 weeks or longer
+- Pain in the chest
+- Coughing up blood or sputum (phlegm from deep inside the lungs)
+- Weakness or fatigue
+- Weight loss
+- No appetite
+- Chills
+- Fever
+- Sweating at night
+
+Other symptoms of TB disease depend on where in the body the TB bacteria are growing.
+
+DIAGNOSIS
+
+TB disease can be diagnosed by medical history, physical examination, chest x-ray, and other tests. TB disease is confirmed by finding TB bacteria in a sputum or other sample from the patient.
+
+Tests include:
+- Tuberculin skin test (TST)
+- Interferon-gamma release assays (IGRAs)
+- Chest X-ray
+- Sputum smear microscopy
+- Culture and drug susceptibility testing
+
+TREATMENT
+
+TB disease can be treated by taking several drugs for 6 to 9 months. There are 10 drugs currently approved by the U.S. Food and Drug Administration (FDA) for treating TB. Of the approved drugs, the first-line anti-TB agents that form the core of treatment regimens are:
+- Isoniazid (INH)
+- Rifampin (RIF)
+- Ethambutol (EMB)
+- Pyrazinamide (PZA)
+
+Regimen for drug-susceptible TB:
+- Initial phase: 2 months of INH, RIF, PZA, and EMB
+- Continuation phase: 4 months of INH and RIF
+
+Directly Observed Therapy (DOT) is recommended to ensure adherence and completion of treatment.
+
+PREVENTION
+
+TB infection can be prevented by:
+- Identifying people with TB disease early
+- Treating TB disease completely
+- Identifying people with TB infection who are at high risk for developing TB disease
+- Treating people with TB infection to prevent progression to TB disease
+
+For people with TB infection:
+- Treatment with isoniazid for 6-9 months
+- Or rifampin for 4 months
+- Or rifapentine-isoniazid for 3 months
+
+Vaccination:
+- BCG vaccine is used in some countries but is not routinely recommended in the United States
+
+---
+
+Title: Dehydration Management in Children
+
+Source: World Health Organization (WHO)
+
+Date: 2024
+
+---
+
+OVERVIEW
+
+Dehydration occurs when the body loses more fluids than it takes in. In children, dehydration can occur quickly and become serious. Common causes include diarrhea, vomiting, fever, and excessive sweating.
+
+SYMPTOMS
+
+Signs of dehydration in children:
+- Dry mouth and tongue
+- No tears when crying
+- No wet diapers for 3 hours or more
+- Sunken eyes, cheeks, or soft spot on the skull
+- Listlessness or irritability
+- Extreme thirst
+- Skin that doesn't bounce back when pinched
+
+Severe dehydration signs:
+- Very fussy or sleepy
+- Sunken eyes
+- Cool and discolored hands and feet
+- Wrinkled skin
+- Very little urine output
+- Rapid breathing or pulse
+
+DIAGNOSIS
+
+Dehydration is diagnosed based on:
+- Clinical signs and symptoms
+- History of fluid loss (diarrhea, vomiting)
+- Physical examination
+- Assessment of hydration status
+
+Classification:
+- No dehydration: <5% fluid loss
+- Some dehydration: 5-10% fluid loss
+- Severe dehydration: >10% fluid loss
+
+TREATMENT
+
+Treatment depends on severity:
+
+For some dehydration (5-10%):
+- Oral rehydration solution (ORS) is the first-line treatment
+- Give 50-100 ml/kg over 2-4 hours
+- Continue breastfeeding or normal feeding
+- Monitor closely
+
+For severe dehydration (>10%):
+- Requires immediate medical attention
+- Intravenous (IV) fluid replacement
+- Hospitalization for monitoring
+- Initial rapid rehydration: 20 ml/kg over 1 hour
+- Then maintenance therapy
+
+Oral Rehydration Solution (ORS):
+- WHO-recommended ORS contains specific amounts of glucose and electrolytes
+- Available commercially or can be prepared at home
+- Continue until diarrhea stops
+
+PREVENTION
+
+Prevention strategies:
+- Ensure adequate fluid intake, especially during illness
+- Encourage frequent small sips of water or ORS during diarrhea
+- Continue breastfeeding for infants
+- Practice good hygiene to prevent diarrhea
+- Ensure safe drinking water
+- Proper food handling and preparation
+
+For travelers:
+- Drink only safe water (bottled or treated)
+- Avoid ice in drinks
+- Eat only well-cooked foods
+- Wash hands frequently
+

@@ -1,0 +1,31 @@
+# Medical RAG Q&A Agent - Dependencies
+# Optimized for Google Colab
+
+# Core ML/NLP Libraries
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+accelerate>=0.20.0
+
+# Vector Database
+faiss-cpu>=1.7.4  # Use faiss-gpu if GPU available
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+requests>=2.31.0
+pyyaml>=6.0
+tqdm>=4.65.0
+
+# Optional: For API-based LLM (OpenAI)
+# openai>=1.0.0
+
+# Optional: For enhanced chunking (LangChain)
+# langchain>=0.0.200
+
+# Development (optional)
+# jupyter>=1.0.0
+# ipywidgets>=8.0.0
+

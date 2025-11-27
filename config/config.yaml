@@ -1,0 +1,50 @@
+# Medical RAG Q&A Agent Configuration
+
+# Embedding Configuration
+embedding:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 32
+  cache_dir: "./cache/embeddings"
+
+# Chunking Configuration
+chunking:
+  chunk_size: 1000
+  chunk_overlap: 200
+  min_chunk_size: 100
+
+# Vector Store Configuration
+vector_store:
+  index_type: "flat"  # Options: "flat", "l2"
+  save_path: "./data/vector_store"
+
+# Retrieval Configuration
+retrieval:
+  top_k: 5
+  score_threshold: 0.0
+  rerank: false
+  rerank_method: "similarity"  # Options: "similarity", "keyword"
+
+# LLM Configuration
+llm:
+  model_name: "google/flan-t5-base"  # Lightweight model for Colab
+  use_api: false  # Set to true to use OpenAI API
+  api_key: null  # Set your API key if using API
+  max_length: 512
+  temperature: 0.3
+
+# Safety Configuration
+safety:
+  enable_validation: true
+  add_disclaimer: true
+  emergency_detection: true
+
+# Data Configuration
+data:
+  sample_file: "./data/sample_medical_guidelines.txt"
+  test_questions_file: "./data/test_questions.json"
+
+# Evaluation Configuration
+evaluation:
+  benchmark_output: "./results/benchmark_results.json"
+  compare_with_baseline: true
+
